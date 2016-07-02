@@ -33,5 +33,9 @@ It helps us because the human brain interprets the diagrams better than the text
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The codes from both the branches get written in an optimized way. The literal meaning of 
+merge id=s the  coming together, hence the diagram is represented as if the two branches
+are coming together.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
