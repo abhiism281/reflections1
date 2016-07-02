@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that 
+was introduced?
+
+I just compared the old version with the new one, especially the words which 
+were different in the old and the new version. The different words could 
+contain the typo.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    An easy access to the entire history of the file lets us to know the old 
+    way of programming so that we can analyse the trends and make plans for the 
+    future programming levels.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros
+    Different commits are logically separated
+    More user control on the version
+
+    cons
+    Prone to human error
+    Varies erratically from person to person
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Version control systems like google docs have files that are completely unrelated 
+    with each other so they are treated separately. On the other hand, version 
+    control systems like Git store files that are interdependent on each other. 
+    So they allow multiple files in one commit. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    We can use git log to see the short history of the file. Then we can use git diff with two git ids to see the detail history of the file. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    If I might have introduced something wrong then I can always go back to 
+    the previous version to restore the file. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use it to shift it to older version of the code if the issue is really serious and I cant find it.
