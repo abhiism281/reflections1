@@ -1,11 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-The files of the directory in which the repositary is created will now 
-be under the supervision of the directory. We need to do it because the 
-git needs to know the directory in which it should maintain versions of the file. 
+	The files of the directory in which the repositary is created will now 
+	be under the supervision of the directory. We need to do it because the 
+	git needs to know the directory in which it should maintain versions of the file. 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+
+	Staging area may be an intermediate folder between the working directory and the 
+	repository. It may be used to call back the files in the staging area.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
