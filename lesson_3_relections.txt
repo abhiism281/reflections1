@@ -19,7 +19,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    So that we can have the latest online version without having to pull from 
+    the server. Also, we can know the changes made to the branches in the 
+    server, since we got offline.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
