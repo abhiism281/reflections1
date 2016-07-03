@@ -39,3 +39,12 @@ are coming together.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Pros
+The task of merging becomes faster and saves a lot of time. 
+It does the work that can be done efficiently by the computer instead of taking
+human help
+
+Cons
+It may lead to merge conflict
+It requires artificial intelligence to work on a higher level.
